@@ -12,7 +12,7 @@ class the speed will be back to normal.
 ## Getting started
 To install this package:
 
-`python -m pip install git+https://github.com/Ilkka-LBL/LBLDataAccess.git`
+`python -m pip install git+https://github.com/lb-lewisham/LBLDataAccess.git`
 
 Or 
 
@@ -20,7 +20,7 @@ Or
 
 If using Conda, you may need to just write:
 
-`pip install git+https://github.com/Ilkka-LBL/LBLDataAccess.git`
+`pip install git+https://github.com/lb-lewisham/LBLDataAccess.git`
 
 or 
 
